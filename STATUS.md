@@ -64,3 +64,5 @@ Marca placeholder neutra: **"Red Farmacias"**, configurable desde un único arch
 - Login para el panel con usuario por sucursal.
 - Reemplazar ilustraciones SVG por fotos reales del catálogo y conectar stock si la red lo quiere.
 
+
+- Subida a GitHub (pedido de Agustín): https://github.com/Apaulise/demo-red-farmacia — rama main, commit 0fda62a. Se dejó afuera `propuesta-red-farmacias-berazategui.pdf` (propuesta comercial, no es parte de la demo).
